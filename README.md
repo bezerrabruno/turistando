@@ -1,4 +1,4 @@
-# turistando v1.0.0
+# turistando v1.0.0+1
 
 Primeiro projeto referencia de arquitetura criado.
 
